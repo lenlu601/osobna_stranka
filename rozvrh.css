@@ -1,0 +1,55 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+tr {
+    height: 50px;
+}
+
+.BIO {
+    background-color: green;
+}
+
+.CHE {
+    background-color: aqua;
+}
+
+.DEJ {
+    background-color: blueviolet;
+}
+
+.MAT {
+    background-color: brown;
+}
+
+.ANJ {
+    background-color: cornflowerblue;
+}
+
+.FYZ {
+    background-color: darkgrey;
+}
+
+.SJL {
+    background-color: crimson;
+}
+
+.NEJ {
+    background-color: darkslateblue;
+}
+
+.OBN {
+    background-color: darkslategrey;
+}
+
+.cas {
+    vertical-align: bottom;
+    font-size: 6pt;
+}
