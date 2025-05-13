@@ -51,3 +51,26 @@
       width: 100%;
     }
   }
+
+
+  a:link, a:visited {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: transparent;
+    color: rgb(11, 23, 18);
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px;
+  }
+  
+  a:hover, a:active {
+    background-color: #8cf7b5;
+    border: 1px solid whitesmoke
+  }
+
+footer {
+  bottom:0;
+  background-color: #8cf7b5;
+  width: 100%;
+}
